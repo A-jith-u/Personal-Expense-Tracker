@@ -1,0 +1,26 @@
+[
+    {
+        "amount": 200.0,
+        "category": "food",
+        "description": "mandhi",
+        "date": "2025-09-13",
+        "payment_method": "Cash",
+        "currency": "INR"
+    },
+    {
+        "amount": 100.0,
+        "category": "travel",
+        "description": "home",
+        "date": "2025-09-13",
+        "payment_method": "Cash",
+        "currency": "INR"
+    },
+    {
+        "amount": 100.0,
+        "category": "food",
+        "description": "biriyani",
+        "date": "2025-09-13",
+        "payment_method": "UPI",
+        "currency": "INR"
+    }
+]

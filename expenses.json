@@ -1,0 +1,38 @@
+[
+    {
+        "amount": 200.0,
+        "category": "Food",
+        "description": "Bririyani",
+        "date": "2025-09-12"
+    },
+    {
+        "amount": 300.0,
+        "category": "Travel",
+        "description": "Vagamon",
+        "date": "2025-09-12"
+    },
+    {
+        "amount": 100.0,
+        "category": "Food",
+        "description": "Biriyani",
+        "date": "2025-09-12"
+    },
+    {
+        "amount": 200.0,
+        "category": "Travel",
+        "description": "Home",
+        "date": "2025-09-12"
+    },
+    {
+        "amount": 200.0,
+        "category": "Food",
+        "description": "Mandi",
+        "date": "2025-09-12"
+    },
+    {
+        "amount": 300.0,
+        "category": "Food",
+        "description": "Mandhi",
+        "date": "2025-09-12"
+    }
+]
